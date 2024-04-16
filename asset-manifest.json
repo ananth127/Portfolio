@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c0a8be97.css",
-    "main.js": "/Portfolio/static/js/main.7925f766.js",
-    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
-    "static/media/leaf.png": "/Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Ananth_S_Resume.pdf": "/Portfolio/static/media/Ananth_S_Resume.be5c26ac5d40da62551d.pdf",
-    "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.c0a8be97.css.map": "/Portfolio/static/css/main.c0a8be97.css.map",
-    "main.7925f766.js.map": "/Portfolio/static/js/main.7925f766.js.map",
-    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/Myportfolio/static/css/main.7e928686.css",
+    "main.js": "/Myportfolio/static/js/main.4fa9190f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Myportfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Myportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Myportfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Myportfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Myportfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Myportfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Myportfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Myportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Myportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Myportfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/Myportfolio/static/media/Soumyajit_Behera-BIT_MESRA.b67bc39ea73918d153fd.pdf",
+    "static/media/home-bg.jpg": "/Myportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Myportfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Myportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Myportfolio/index.html",
+    "main.7e928686.css.map": "/Myportfolio/static/css/main.7e928686.css.map",
+    "main.4fa9190f.js.map": "/Myportfolio/static/js/main.4fa9190f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Myportfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Myportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a8be97.css",
-    "static/js/main.7925f766.js"
+    "static/css/main.7e928686.css",
+    "static/js/main.4fa9190f.js"
   ]
 }
